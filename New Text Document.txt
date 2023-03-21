@@ -1,1 +1,2 @@
 This is a sample note document for the purpose of git commands working demo.---> in 1st commit
+This is 2nd line entered after my 1st commit.
